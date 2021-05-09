@@ -9,11 +9,11 @@
 #include "functions/utils/copiaMatriz.c"
 #include "functions/utils/desalocaMatriz.c"
 
-#include "functions/personagems/iniciaBloco.c"
-#include "functions/personagems/iniciaBlinker.c"
-#include "functions/personagems/iniciaGlider.c"
-#include "functions/personagems/iniciaLWSS.c"
-#include "functions/personagems/iniciaSapo.c"
+#include "functions/personagens/iniciaBloco.c"
+#include "functions/personagens/iniciaBlinker.c"
+#include "functions/personagens/iniciaGlider.c"
+#include "functions/personagens/iniciaLWSS.c"
+#include "functions/personagens/iniciaSapo.c"
 
 #include "functions/mortoVivo.c"
 #include "functions/emiteBeep.c"
